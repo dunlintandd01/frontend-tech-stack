@@ -1,1 +1,1 @@
-# frontend-tehk-stack
+# frontend-tech-stack
