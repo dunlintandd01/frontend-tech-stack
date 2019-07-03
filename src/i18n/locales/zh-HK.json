@@ -1,0 +1,89 @@
+{
+  "common": {
+    "staging": "測試環境",
+    "app_name": "夥伴管理系統",
+    "logout": "登出",
+    "back_to_home": "返回主頁",
+    "content_status": {
+      "draft": "草稿",
+      "published": "已發佈"
+    }
+  },
+  "pages": {
+    "rsvp_list": {
+      "menu_tabs": {
+        "published": "已發布",
+        "draft": "草稿",
+        "finished": "finished"
+      }
+    }
+  },
+  "table": {
+    "no_data": "暫無內容",
+    "no_search_result": "沒有搜尋結果",
+    "pagination": {
+      "items_per_page": "條/頁",
+      "jump_to": "跳至",
+      "page": "頁"
+    }
+  },
+  "buttons": {
+    "edit": "編輯",
+    "save": "儲存",
+    "confirm": "確定",
+    "cancel": "取消",
+    "delete": "刪除",
+    "publish": "發佈",
+    "save_and_update": "儲存及更新",
+    "preview": "預覽",
+    "upload": "上載",
+    "uploading": "上載中"
+  },
+  "fields": {
+    "title": "標題",
+    "cover": "主題圖片",
+    "content": "內文",
+    "status": "狀態"
+  },
+  "form": {
+    "datepicker": {
+      "date_format": "YYYY年M月D日",
+      "month_format": "M月",
+      "year_format": "YYYY年",
+      "today": "今天"
+    }
+  },
+  "modals": {
+    "leave_confirm": {
+      "title": "離開頁面？",
+      "okText": "放棄",
+      "cancelText": "保留",
+      "content": "若不儲存，已填寫的內容將會消失。"
+    }
+  },
+  "errors": {
+    "404": "抱歉，你訪問的頁面不存在",
+    "validator": {
+      "string_limit": "{{field}}必須為{{min}}-{{max}}個字",
+      "required": "{{field}}為必填",
+      "not_allow_empty": "{{field}}內容不能漏空"
+    },
+    "api_errors": {
+      "unknown_api_error": "系統出現錯誤。請稍後重試",
+      "smag_1": "系統出現錯誤",
+      "smag_2": "系統出現錯誤",
+      "smag_3": "系統出現錯誤",
+      "smag_4": "系統出現錯誤",
+      "smag_5": "系統出現錯誤",
+      "smag_6": "該分類名稱已存在",
+      "smag_7": "系統出現錯誤",
+      "smag_8": "系統出現錯誤",
+      "smag_9": "系統出現錯誤",
+      "smag_10": "系統出現錯誤",
+      "smag_11": "系統出現錯誤",
+      "smag_12": "系統出現錯誤",
+      "smag_13": "系統出現錯誤",
+      "smag_14": "系統出現錯誤"
+    }
+  }
+}
